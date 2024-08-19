@@ -1,6 +1,6 @@
-# Be Final API Temp
+# IssueMap Project
 
-## Git branching model
+## 위치 기반 SNS
 
 <aside>
 📌 **Base 브랜치(upstream)의 종류**
