@@ -34,3 +34,8 @@
 - [의견] - 단순 간단 의견. 해결되지 않아도 머지 가능
 - [변경요청] - 동작하지 않는 부분이나 잘못된 부분이 있을 때(반드시 수정 필요)
 
+
+
+https://github.com/user-attachments/assets/dacb2816-9add-434d-a6bb-9234a3fd50c1
+
+
