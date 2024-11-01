@@ -16,5 +16,6 @@
 
 ## 프로젝트 설계
 - System Architecture
-![Frontend.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b2a25a64-8a88-46dd-a470-9442d4312c1e/1244ca8f-d917-4fe9-8d1b-2eb53aee03e6/c14d3940-dbf8-4ef3-8f56-0727c90400e1.png)
+![Frontend](https://github.com/user-attachments/assets/4db2a883-61e7-48b0-b63e-bac596d011b2)
+
 
