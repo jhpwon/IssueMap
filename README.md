@@ -16,6 +16,6 @@
 
 ## 프로젝트 설계
 - System Architecture
-![Frontend](https://github.com/user-attachments/assets/4db2a883-61e7-48b0-b63e-bac596d011b2)
+- ![Frontend](https://github.com/user-attachments/assets/4db2a883-61e7-48b0-b63e-bac596d011b2)
 
 
