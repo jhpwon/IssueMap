@@ -21,3 +21,5 @@
 - ERD
 
 ![image (1)](https://github.com/user-attachments/assets/c052b7dc-cd85-4d46-bc54-61d65881aa44)
+- UI & FlowChart
+https://www.figma.com/design/3intw018fJlvHekP4CUOO4/ISSUEMAP?node-id=1-2&node-type=canvas&t=n8xJVNIi86sA2aMR-0
