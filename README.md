@@ -1,4 +1,4 @@
-# IssueMap Project
+# IssueMap
 
 ## 위치 기반 SNS
 
@@ -12,5 +12,9 @@
 - 고정 아이디 / 익명성 보장 아이디 두 가지 방식으로 운영
 
 📅 프로젝트 기간
-2023/06/19 ~ 2023/08/16
+- 2023/06/19 ~ 2023/08/16
+
+## 프로젝트 설계
+- System Architecture
+![Frontend.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b2a25a64-8a88-46dd-a470-9442d4312c1e/1244ca8f-d917-4fe9-8d1b-2eb53aee03e6/c14d3940-dbf8-4ef3-8f56-0727c90400e1.png)
 
