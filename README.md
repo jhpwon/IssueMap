@@ -1,10 +1,8 @@
 # IssueMap
-***
-
-## 위치 기반 SNS
-
+위치 기반 SNS
 📌 내 주변 사회 이슈를 빠르게 접근할 수 있게 도와주는 서비스
 
+## 프로젝트 소개
 - 실시간 위치 기반 간소화된 말풍선 형식의 게시글 공유 서비스
 - 특정 위치에 미디어 데이터와 함께 게시글을 공유하게 될 경우 가벼운 채팅 방식으로 소통 진행 (실시간 기능 강조) (ex. instagram + facebook)
 - 특정 게시글은 사용자에게 영구 제공되지 않음 (특정 기간 유효성을 지니며 이후 열람 불가) (ex. instagram story)
@@ -13,6 +11,9 @@
 
 📅 프로젝트 기간
 - 2023/06/19 ~ 2023/08/16
+
+🎬 시연 영상
+[Link](https://youtu.be/RVWGnL9tVPU)
 
 
 ## System Architecture
@@ -28,4 +29,4 @@
 ## UI & FlowChart
 
 
-Figma [Link](https://www.figma.com/design/3intw018fJlvHekP4CUOO4/ISSUEMAP?node-id=1-2&node-type=canvas&t=n8xJVNIi86sA2aMR-0)
+[Link](https://www.figma.com/design/3intw018fJlvHekP4CUOO4/ISSUEMAP?node-id=1-2&node-type=canvas&t=n8xJVNIi86sA2aMR-0)
