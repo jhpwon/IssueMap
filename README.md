@@ -14,13 +14,10 @@
 🎬 시연 영상
 - [Link](https://youtu.be/RVWGnL9tVPU)
 
-
 ## System Architecture
 ![Frontend](https://github.com/user-attachments/assets/4db2a883-61e7-48b0-b63e-bac596d011b2)
 
 ## ERD
-
-
 ![image (1)](https://github.com/user-attachments/assets/c052b7dc-cd85-4d46-bc54-61d65881aa44)
 
 ## UI & FlowChart
