@@ -1,5 +1,7 @@
 # IssueMap
 📌 위치 기반 SNS
+
+
 ![image](https://github.com/user-attachments/assets/6b349172-ed39-42cd-bdce-fd34a3a692fb)
 
 ## 프로젝트 소개
